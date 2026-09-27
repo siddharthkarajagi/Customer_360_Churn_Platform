@@ -1,0 +1,4 @@
+02_Raw_Data/*.csv
+07_PowerBI/*.pbix
+__pycache__/
+*.pyc
